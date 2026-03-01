@@ -1,2 +1,1 @@
-# Animal-Guessing-Game
-This an Animal guessing game for kids. Made using python
+This is a game where you guess an animal based on the clues. You get 5 clues. If you can guess the animal within the 5 attempts then you win or else you lose. This especially designed for kids that are learning about stuff like animals. Though this can be expanded to other domains like guessing birds, flowers or even objects. Made with python
